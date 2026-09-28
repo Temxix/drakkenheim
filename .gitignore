@@ -3,3 +3,8 @@
 .obsidian/workspace-mobile.json
 .obsidian/cache/
 .trash/
+
+# Extraction tools and OS files
+.tools/
+desktop.ini
+__pycache__/
