@@ -5,7 +5,7 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
       "query": "file:(Люди королевы)",
@@ -22,7 +22,7 @@
       }
     },
     {
-      "query": "file:(Аметистовая Академия)",
+      "query": "file:(Академия)",
       "color": {
         "a": 1,
         "rgb": 11752160
@@ -53,6 +53,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.3445617702468836,
+  "scale": 0.14361620811149703,
   "close": true
 }
