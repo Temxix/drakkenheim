@@ -5,6 +5,7 @@
 .trash/
 
 # Extraction tools and OS files
-.tools/
+.tools/*
+!.tools/raw_images/
 desktop.ini
 __pycache__/

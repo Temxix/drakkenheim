@@ -1,0 +1,3422 @@
+{
+  "pdf": "Подземелья Драккенхейма.pdf",
+  "pages": 211,
+  "unique_xrefs": 181,
+  "extracted_xrefs": [
+    {
+      "file": "p001_xref7237.jpx",
+      "first_page": 1,
+      "xref": 7237,
+      "smask": 0,
+      "width": 1172,
+      "height": 1655,
+      "occurrences": 1,
+      "rects_on_first_page": [
+        [
+          -1.22,
+          -1.08,
+          596.5,
+          842.97
+        ]
+      ]
+    },
+    {
+      "file": "p001_xref7239.png",
+      "first_page": 1,
+      "xref": 7239,
+      "smask": 7238,
+      "width": 594,
+      "height": 95,
+      "occurrences": 1,
+      "rects_on_first_page": [
+        [
+          -1.04,
+          195.59,
+          295.65,
+          242.66
+        ]
+      ]
+    },
+    {
+      "file": "p001_xref7218.jpx",
+      "first_page": 1,
+      "xref": 7218,
+      "smask": 0,
+      "width": 1176,
+      "height": 1655,
+      "occurrences": 211,
+      "rects_on_first_page": [
+        [
+          -1.47,
+          0.0,
+          596.75,
+          841.89
+        ]
+      ]
+    },
+    {
+      "file": "p001_xref7220.png",
+      "first_page": 1,
+      "xref": 7220,
+      "smask": 7219,
+      "width": 142,
+      "height": 76,
+      "occurrences": 211,
+      "rects_on_first_page": [
+        [
+          266.03,
+          805.65,
+          336.81,
+          843.31
+        ]
+      ]
+    },
+    {
+      "file": "p002_xref9.jpx",
+      "first_page": 2,
+      "xref": 9,
+      "smask": 0,
+      "width": 1195,
+      "height": 1261,
+      "occurrences": 1,
+      "rects_on_first_page": [
+        [
+          -1.12,
+          105.29,
+          596.04,
+          735.74
+        ]
+      ]
+    },
+    {
+      "file": "p003_xref29.png",
+      "first_page": 3,
+      "xref": 29,
+      "smask": 28,
+      "width": 639,
+      "height": 226,
+      "occurrences": 1,
+      "rects_on_first_page": [
+        [
+          -0.0,
+          711.11,
+          369.78,
+          841.89
+        ]
+      ]
+    },
+    {
+      "file": "p003_xref6710.png",
+      "first_page": 3,
+      "xref": 6710,
+      "smask": 6711,
+      "width": 60,
+      "height": 1655,
+      "occurrences": 15,
+      "rects_on_first_page": [
+        [
+          -0.0,
+          0.0,
+          30.52,
+          841.89
+        ]
+      ]
+    },
+    {
+      "file": "p003_xref31.png",
+      "first_page": 3,
+      "xref": 31,
+      "smask": 30,
+      "width": 524,
+      "height": 499,
+      "occurrences": 1,
+      "rects_on_first_page": [
+        [
+          290.14,
+          0.0,
+          595.28,
+          290.58
+        ]
+      ]
+    },
+    {
+      "file": "p003_xref33.png",
+      "first_page": 3,
+      "xref": 33,
+      "smask": 32,
+      "width": 609,
+      "height": 609,
+      "occurrences": 1,
+      "rects_on_first_page": [
+        [
+          291.26,
+          0.0,
+          595.28,
+          304.02
+        ]
+      ]
+    },
+    {
+      "file": "p005_xref219.png",
+      "first_page": 5,
+      "xref": 219,
+      "smask": 218,
+      "width": 1191,
+      "height": 864,
+      "occurrences": 1,
+      "rects_on_first_page": [
+        [
+          0.0,
+          -1.03,
+          595.28,
+          430.72
+        ]
+      ]
+    },
+    {
+      "file": "p005_xref6731.png",
+      "first_page": 5,
+      "xref": 6731,
+      "smask": 6730,
+      "width": 821,
+      "height": 222,
+      "occurrences": 2,
+      "rects_on_first_page": [
+        [
+          92.43,
+          329.33,
+          502.85,
+          440.28
+        ]
+      ]
+    },
+    {
+      "file": "p006_xref249.png",
+      "first_page": 6,
+      "xref": 249,
+      "smask": 248,
+      "width": 552,
+      "height": 238,
+      "occurrences": 1,
+      "rects_on_first_page": [
+        [
+          283.52,
+          678.9,
+          559.28,
+          797.42
+        ]
+      ]
+    },
+    {
+      "file": "p007_xref279.png",
+      "first_page": 7,
+      "xref": 279,
+      "smask": 278,
+      "width": 459,
+      "height": 459,
+      "occurrences": 1,
+      "rects_on_first_page": [
+        [
+          49.18,
+          575.43,
+          278.45,
+          804.7
+        ]
+      ]
+    },
+    {
+      "file": "p009_xref320.png",
+      "first_page": 9,
+      "xref": 320,
+      "smask": 319,
+      "width": 1191,
+      "height": 729,
+      "occurrences": 1,
+      "rects_on_first_page": [
+        [
+          0.0,
+          0.0,
+          595.29,
+          364.15
+        ]
+      ]
+    },
+    {
+      "file": "p009_xref322.png",
+      "first_page": 9,
+      "xref": 322,
+      "smask": 321,
+      "width": 974,
+      "height": 169,
+      "occurrences": 1,
+      "rects_on_first_page": [
+        [
+          71.35,
+          277.12,
+          557.95,
+          361.42
+        ]
+      ]
+    },
+    {
+      "file": "p010_xref341.png",
+      "first_page": 10,
+      "xref": 341,
+      "smask": 340,
+      "width": 435,
+      "height": 1352,
+      "occurrences": 1,
+      "rects_on_first_page": [
+        [
+          342.07,
+          60.95,
+          578.09,
+          794.49
+        ]
+      ]
+    },
+    {
+      "file": "p010_xref343.png",
+      "first_page": 10,
+      "xref": 343,
+      "smask": 342,
+      "width": 512,
+      "height": 227,
+      "occurrences": 1,
+      "rects_on_first_page": [
+        [
+          28.91,
+          729.99,
+          284.55,
+          843.12
+        ]
+      ]
+    },
+    {
+      "file": "p012_xref368.jpx",
+      "first_page": 12,
+      "xref": 368,
+      "smask": 0,
+      "width": 1176,
+      "height": 1655,
+      "occurrences": 1,
+      "rects_on_first_page": [
+        [
+          -1.49,
+          0.0,
+          596.77,
+          841.94
+        ]
+      ]
+    },
+    {
+      "file": "p013_xref397.png",
+      "first_page": 13,
+      "xref": 397,
+      "smask": 396,
+      "width": 337,
+      "height": 168,
+      "occurrences": 1,
+      "rects_on_first_page": [
+        [
+          79.79,
+          752.6,
+          247.84,
+          836.14
+        ]
+      ]
+    },
+    {
+      "file": "p016_xref521.png",
+      "first_page": 16,
+      "xref": 521,
+      "smask": 520,
+      "width": 1193,
+      "height": 903,
+      "occurrences": 1,
+      "rects_on_first_page": [
+        [
+          -1.09,
+          0.0,
+          595.28,
+          451.24
+        ]
+      ]
+    },
+    {
+      "file": "p016_xref523.png",
+      "first_page": 16,
+      "xref": 523,
+      "smask": 522,
+      "width": 563,
+      "height": 251,
+      "occurrences": 1,
+      "rects_on_first_page": [
+        [
+          16.39,
+          530.79,
+          297.88,
+          655.84
+        ]
+      ]
+    },
+    {
+      "file": "p016_xref525.png",
+      "first_page": 16,
+      "xref": 525,
+      "smask": 524,
+      "width": 427,
+      "height": 421,
+      "occurrences": 1,
+      "rects_on_first_page": [
+        [
+          63.5,
+          616.96,
+          276.98,
+          827.43
+        ]
+      ]
+    },
+    {
+      "file": "p017_xref6743.png",
+      "first_page": 17,
+      "xref": 6743,
+      "smask": 6744,
+      "width": 574,
+      "height": 255,
+      "occurrences": 5,
+      "rects_on_first_page": [
+        [
+          275.46,
+          17.01,
+          572.6,
+          149.01
+        ]
+      ]
+    },
+    {
+      "file": "p017_xref553.png",
+      "first_page": 17,
+      "xref": 553,
+      "smask": 552,
+      "width": 437,
+      "height": 437,
+      "occurrences": 1,
+      "rects_on_first_page": [
+        [
+          322.23,
+          596.69,
+          540.17,
+          814.63
+        ]
+      ]
+    },
+    {
+      "file": "p021_xref722.png",
+      "first_page": 21,
+      "xref": 722,
+      "smask": 721,
+      "width": 1194,
+      "height": 854,
+      "occurrences": 1,
+      "rects_on_first_page": [
+        [
+          -1.32,
+          0.0,
+          595.28,
+          426.54
+        ]
+      ]
+    },
+    {
+      "file": "p023_xref745.png",
+      "first_page": 23,
+      "xref": 745,
+      "smask": 744,
+      "width": 571,
+      "height": 777,
+      "occurrences": 1,
+      "rects_on_first_page": [
+        [
+          -1.44,
+          330.24,
+          374.56,
+          841.89
+        ]
+      ]
+    },
+    {
+      "file": "p024_xref756.png",
+      "first_page": 24,
+      "xref": 756,
+      "smask": 755,
+      "width": 1143,
+      "height": 978,
+      "occurrences": 1,
+      "rects_on_first_page": [
+        [
+          -1.25,
+          0.0,
+          596.76,
+          511.68
+        ]
+      ]
+    },
+    {
+      "file": "p025_xref768.png",
+      "first_page": 25,
+      "xref": 768,
+      "smask": 767,
+      "width": 447,
+      "height": 767,
+      "occurrences": 1,
+      "rects_on_first_page": [
+        [
+          319.92,
+          70.87,
+          542.99,
+          453.92
+        ]
+      ]
+    },
+    {
+      "file": "p025_xref770.png",
+      "first_page": 25,
+      "xref": 770,
+      "smask": 769,
+      "width": 363,
+      "height": 413,
+      "occurrences": 1,
+      "rects_on_first_page": [
+        [
+          62.56,
+          98.86,
+          265.08,
+          329.28
+        ]
+      ]
+    },
+    {
+      "file": "p025_xref772.png",
+      "first_page": 25,
+      "xref": 772,
+      "smask": 771,
+      "width": 659,
+      "height": 183,
+      "occurrences": 1,
+      "rects_on_first_page": [
+        [
+          111.07,
+          6.65,
+          484.2,
+          110.26
+        ]
+      ]
+    },
+    {
+      "file": "p026_xref784.png",
+      "first_page": 26,
+      "xref": 784,
+      "smask": 783,
+      "width": 1033,
+      "height": 662,
+      "occurrences": 1,
+      "rects_on_first_page": [
+        [
+          6.06,
+          498.9,
+          613.8,
+          951.55
+        ]
+      ]
+    },
+    {
+      "file": "p028_xref855.png",
+      "first_page": 28,
+      "xref": 855,
+      "smask": 854,
+      "width": 441,
+      "height": 683,
+      "occurrences": 1,
+      "rects_on_first_page": [
+        [
+          53.74,
+          500.88,
+          274.23,
+          841.89
+        ]
+      ]
+    },
+    {
+      "file": "p029_xref929.png",
+      "first_page": 29,
+      "xref": 929,
+      "smask": 928,
+      "width": 596,
+      "height": 822,
+      "occurrences": 1,
+      "rects_on_first_page": [
+        [
+          297.64,
+          381.48,
+          595.28,
+          792.28
+        ]
+      ]
+    },
+    {
+      "file": "p030_xref989.png",
+      "first_page": 30,
+      "xref": 989,
+      "smask": 988,
+      "width": 572,
+      "height": 255,
+      "occurrences": 1,
+      "rects_on_first_page": [
+        [
+          -1.3,
+          684.37,
+          294.8,
+          816.38
+        ]
+      ]
+    },
+    {
+      "file": "p030_xref991.png",
+      "first_page": 30,
+      "xref": 991,
+      "smask": 990,
+      "width": 588,
+      "height": 126,
+      "occurrences": 1,
+      "rects_on_first_page": [
+        [
+          284.46,
+          21.84,
+          578.12,
+          84.67
+        ]
+      ]
+    },
+    {
+      "file": "p030_xref993.png",
+      "first_page": 30,
+      "xref": 993,
+      "smask": 992,
+      "width": 319,
+      "height": 514,
+      "occurrences": 1,
+      "rects_on_first_page": [
+        [
+          341.98,
+          77.95,
+          520.6,
+          365.76
+        ]
+      ]
+    },
+    {
+      "file": "p031_xref1019.png",
+      "first_page": 31,
+      "xref": 1019,
+      "smask": 1018,
+      "width": 413,
+      "height": 919,
+      "occurrences": 1,
+      "rects_on_first_page": [
+        [
+          61.04,
+          376.82,
+          267.11,
+          835.94
+        ]
+      ]
+    },
+    {
+      "file": "p032_xref1040.png",
+      "first_page": 32,
+      "xref": 1040,
+      "smask": 1039,
+      "width": 126,
+      "height": 213,
+      "occurrences": 1,
+      "rects_on_first_page": [
+        [
+          2.83,
+          -44.65,
+          193.38,
+          145.9
+        ]
+      ]
+    },
+    {
+      "file": "p032_xref1042.png",
+      "first_page": 32,
+      "xref": 1042,
+      "smask": 1041,
+      "width": 428,
+      "height": 482,
+      "occurrences": 1,
+      "rects_on_first_page": [
+        [
+          324.27,
+          601.1,
+          538.06,
+          841.89
+        ]
+      ]
+    },
+    {
+      "file": "p033_xref1077.png",
+      "first_page": 33,
+      "xref": 1077,
+      "smask": 1076,
+      "width": 1191,
+      "height": 614,
+      "occurrences": 1,
+      "rects_on_first_page": [
+        [
+          0.0,
+          0.0,
+          595.28,
+          306.94
+        ]
+      ]
+    },
+    {
+      "file": "p034_xref1141.png",
+      "first_page": 34,
+      "xref": 1141,
+      "smask": 1140,
+      "width": 406,
+      "height": 406,
+      "occurrences": 1,
+      "rects_on_first_page": [
+        [
+          329.8,
+          621.49,
+          532.79,
+          824.48
+        ]
+      ]
+    },
+    {
+      "file": "p035_xref1212.png",
+      "first_page": 35,
+      "xref": 1212,
+      "smask": 1211,
+      "width": 574,
+      "height": 246,
+      "occurrences": 1,
+      "rects_on_first_page": [
+        [
+          6.17,
+          715.55,
+          303.31,
+          842.9
+        ]
+      ]
+    },
+    {
+      "file": "p035_xref1214.png",
+      "first_page": 35,
+      "xref": 1214,
+      "smask": 1213,
+      "width": 496,
+      "height": 498,
+      "occurrences": 1,
+      "rects_on_first_page": [
+        [
+          281.54,
+          0.0,
+          595.28,
+          315.0
+        ]
+      ]
+    },
+    {
+      "file": "p036_xref6753.png",
+      "first_page": 36,
+      "xref": 6753,
+      "smask": 6754,
+      "width": 659,
+      "height": 141,
+      "occurrences": 3,
+      "rects_on_first_page": [
+        [
+          110.43,
+          17.61,
+          484.85,
+          97.72
+        ]
+      ]
+    },
+    {
+      "file": "p036_xref1254.png",
+      "first_page": 36,
+      "xref": 1254,
+      "smask": 1253,
+      "width": 449,
+      "height": 485,
+      "occurrences": 1,
+      "rects_on_first_page": [
+        [
+          36.0,
+          96.38,
+          291.97,
+          372.87
+        ]
+      ]
+    },
+    {
+      "file": "p036_xref1256.png",
+      "first_page": 36,
+      "xref": 1256,
+      "smask": 1255,
+      "width": 352,
+      "height": 787,
+      "occurrences": 1,
+      "rects_on_first_page": [
+        [
+          343.46,
+          75.12,
+          519.33,
+          468.16
+        ]
+      ]
+    },
+    {
+      "file": "p037_xref1282.png",
+      "first_page": 37,
+      "xref": 1282,
+      "smask": 1281,
+      "width": 551,
+      "height": 210,
+      "occurrences": 1,
+      "rects_on_first_page": [
+        [
+          284.53,
+          21.63,
+          569.76,
+          130.34
+        ]
+      ]
+    },
+    {
+      "file": "p038_xref1309.png",
+      "first_page": 38,
+      "xref": 1309,
+      "smask": 1308,
+      "width": 509,
+      "height": 653,
+      "occurrences": 1,
+      "rects_on_first_page": [
+        [
+          296.29,
+          5.91,
+          550.46,
+          332.23
+        ]
+      ]
+    },
+    {
+      "file": "p039_xref1368.png",
+      "first_page": 39,
+      "xref": 1368,
+      "smask": 1367,
+      "width": 260,
+      "height": 176,
+      "occurrences": 1,
+      "rects_on_first_page": [
+        [
+          48.95,
+          668.05,
+          279.02,
+          823.79
+        ]
+      ]
+    },
+    {
+      "file": "p040_xref1437.png",
+      "first_page": 40,
+      "xref": 1437,
+      "smask": 1436,
+      "width": 402,
+      "height": 834,
+      "occurrences": 1,
+      "rects_on_first_page": [
+        [
+          330.88,
+          426.61,
+          531.71,
+          843.15
+        ]
+      ]
+    },
+    {
+      "file": "p041_xref1473.png",
+      "first_page": 41,
+      "xref": 1473,
+      "smask": 1472,
+      "width": 405,
+      "height": 711,
+      "occurrences": 1,
+      "rects_on_first_page": [
+        [
+          338.81,
+          82.3,
+          541.3,
+          437.54
+        ]
+      ]
+    },
+    {
+      "file": "p041_xref1475.png",
+      "first_page": 41,
+      "xref": 1475,
+      "smask": 1474,
+      "width": 380,
+      "height": 464,
+      "occurrences": 1,
+      "rects_on_first_page": [
+        [
+          36.0,
+          97.19,
+          292.18,
+          410.0
+        ]
+      ]
+    },
+    {
+      "file": "p042_xref6755.png",
+      "first_page": 42,
+      "xref": 6755,
+      "smask": 6756,
+      "width": 551,
+      "height": 201,
+      "occurrences": 5,
+      "rects_on_first_page": [
+        [
+          283.82,
+          52.11,
+          569.06,
+          156.16
+        ]
+      ]
+    },
+    {
+      "file": "p043_xref1529.png",
+      "first_page": 43,
+      "xref": 1529,
+      "smask": 1528,
+      "width": 348,
+      "height": 511,
+      "occurrences": 1,
+      "rects_on_first_page": [
+        [
+          -1.1,
+          587.75,
+          172.8,
+          843.01
+        ]
+      ]
+    },
+    {
+      "file": "p043_xref1531.png",
+      "first_page": 43,
+      "xref": 1531,
+      "smask": 1530,
+      "width": 336,
+      "height": 384,
+      "occurrences": 1,
+      "rects_on_first_page": [
+        [
+          134.65,
+          649.95,
+          302.28,
+          841.89
+        ]
+      ]
+    },
+    {
+      "file": "p045_xref1639.jpx",
+      "first_page": 45,
+      "xref": 1639,
+      "smask": 0,
+      "width": 1174,
+      "height": 1655,
+      "occurrences": 1,
+      "rects_on_first_page": [
+        [
+          -1.02,
+          -0.16,
+          596.3,
+          841.89
+        ]
+      ]
+    },
+    {
+      "file": "p046_xref1654.png",
+      "first_page": 46,
+      "xref": 1654,
+      "smask": 1653,
+      "width": 385,
+      "height": 437,
+      "occurrences": 1,
+      "rects_on_first_page": [
+        [
+          67.89,
+          95.91,
+          260.08,
+          314.11
+        ]
+      ]
+    },
+    {
+      "file": "p046_xref1656.png",
+      "first_page": 46,
+      "xref": 1656,
+      "smask": 1655,
+      "width": 447,
+      "height": 797,
+      "occurrences": 1,
+      "rects_on_first_page": [
+        [
+          319.67,
+          68.2,
+          542.86,
+          466.52
+        ]
+      ]
+    },
+    {
+      "file": "p048_xref6757.png",
+      "first_page": 48,
+      "xref": 6757,
+      "smask": 6758,
+      "width": 426,
+      "height": 157,
+      "occurrences": 2,
+      "rects_on_first_page": [
+        [
+          324.33,
+          28.6,
+          537.22,
+          106.89
+        ]
+      ]
+    },
+    {
+      "file": "p049_xref1736.png",
+      "first_page": 49,
+      "xref": 1736,
+      "smask": 1735,
+      "width": 1195,
+      "height": 864,
+      "occurrences": 1,
+      "rects_on_first_page": [
+        [
+          -1.0,
+          0.0,
+          596.09,
+          431.7
+        ]
+      ]
+    },
+    {
+      "file": "p050_xref1788.png",
+      "first_page": 50,
+      "xref": 1788,
+      "smask": 1787,
+      "width": 550,
+      "height": 550,
+      "occurrences": 1,
+      "rects_on_first_page": [
+        [
+          254.41,
+          544.25,
+          641.83,
+          931.68
+        ]
+      ]
+    },
+    {
+      "file": "p052_xref1888.jpx",
+      "first_page": 52,
+      "xref": 1888,
+      "smask": 0,
+      "width": 1174,
+      "height": 1655,
+      "occurrences": 1,
+      "rects_on_first_page": [
+        [
+          -1.04,
+          -0.22,
+          596.32,
+          841.89
+        ]
+      ]
+    },
+    {
+      "file": "p053_xref1901.png",
+      "first_page": 53,
+      "xref": 1901,
+      "smask": 1900,
+      "width": 1158,
+      "height": 888,
+      "occurrences": 1,
+      "rects_on_first_page": [
+        [
+          -1.25,
+          -0.51,
+          596.53,
+          457.89
+        ]
+      ]
+    },
+    {
+      "file": "p053_xref6759.png",
+      "first_page": 53,
+      "xref": 6759,
+      "smask": 6760,
+      "width": 821,
+      "height": 217,
+      "occurrences": 8,
+      "rects_on_first_page": [
+        [
+          92.43,
+          349.65,
+          502.85,
+          457.65
+        ]
+      ]
+    },
+    {
+      "file": "p056_xref2005.png",
+      "first_page": 56,
+      "xref": 2005,
+      "smask": 2004,
+      "width": 1119,
+      "height": 784,
+      "occurrences": 1,
+      "rects_on_first_page": [
+        [
+          0.0,
+          0.0,
+          559.28,
+          391.84
+        ]
+      ]
+    },
+    {
+      "file": "p057_xref2030.png",
+      "first_page": 57,
+      "xref": 2030,
+      "smask": 2029,
+      "width": 1191,
+      "height": 754,
+      "occurrences": 1,
+      "rects_on_first_page": [
+        [
+          0.0,
+          0.0,
+          595.28,
+          376.7
+        ]
+      ]
+    },
+    {
+      "file": "p060_xref2159.png",
+      "first_page": 60,
+      "xref": 2159,
+      "smask": 2158,
+      "width": 397,
+      "height": 276,
+      "occurrences": 1,
+      "rects_on_first_page": [
+        [
+          0.99,
+          574.73,
+          298.66,
+          781.68
+        ]
+      ]
+    },
+    {
+      "file": "p061_xref2188.png",
+      "first_page": 61,
+      "xref": 2188,
+      "smask": 2187,
+      "width": 1191,
+      "height": 917,
+      "occurrences": 1,
+      "rects_on_first_page": [
+        [
+          0.0,
+          0.0,
+          595.28,
+          458.08
+        ]
+      ]
+    },
+    {
+      "file": "p064_xref2258.png",
+      "first_page": 64,
+      "xref": 2258,
+      "smask": 2257,
+      "width": 1000,
+      "height": 1537,
+      "occurrences": 1,
+      "rects_on_first_page": [
+        [
+          34.9,
+          21.1,
+          555.19,
+          820.78
+        ]
+      ]
+    },
+    {
+      "file": "p066_xref2323.png",
+      "first_page": 66,
+      "xref": 2323,
+      "smask": 2322,
+      "width": 1191,
+      "height": 520,
+      "occurrences": 1,
+      "rects_on_first_page": [
+        [
+          0.0,
+          0.0,
+          595.28,
+          259.97
+        ]
+      ]
+    },
+    {
+      "file": "p067_xref2408.png",
+      "first_page": 67,
+      "xref": 2408,
+      "smask": 2407,
+      "width": 498,
+      "height": 183,
+      "occurrences": 1,
+      "rects_on_first_page": [
+        [
+          306.26,
+          727.15,
+          554.95,
+          818.15
+        ]
+      ]
+    },
+    {
+      "file": "p069_xref2476.png",
+      "first_page": 69,
+      "xref": 2476,
+      "smask": 2475,
+      "width": 1191,
+      "height": 686,
+      "occurrences": 1,
+      "rects_on_first_page": [
+        [
+          0.0,
+          0.0,
+          595.28,
+          342.75
+        ]
+      ]
+    },
+    {
+      "file": "p070_xref2496.png",
+      "first_page": 70,
+      "xref": 2496,
+      "smask": 2495,
+      "width": 1191,
+      "height": 688,
+      "occurrences": 1,
+      "rects_on_first_page": [
+        [
+          0.0,
+          -1.01,
+          595.28,
+          342.67
+        ]
+      ]
+    },
+    {
+      "file": "p071_xref2521.png",
+      "first_page": 71,
+      "xref": 2521,
+      "smask": 2520,
+      "width": 1191,
+      "height": 847,
+      "occurrences": 1,
+      "rects_on_first_page": [
+        [
+          0.0,
+          0.0,
+          595.35,
+          423.26
+        ]
+      ]
+    },
+    {
+      "file": "p071_xref6761.png",
+      "first_page": 71,
+      "xref": 6761,
+      "smask": 6762,
+      "width": 522,
+      "height": 191,
+      "occurrences": 32,
+      "rects_on_first_page": [
+        [
+          31.87,
+          695.19,
+          292.55,
+          790.58
+        ]
+      ]
+    },
+    {
+      "file": "p072_xref2536.png",
+      "first_page": 72,
+      "xref": 2536,
+      "smask": 2535,
+      "width": 1190,
+      "height": 845,
+      "occurrences": 1,
+      "rects_on_first_page": [
+        [
+          0.0,
+          0.0,
+          594.64,
+          422.29
+        ]
+      ]
+    },
+    {
+      "file": "p072_xref6763.png",
+      "first_page": 72,
+      "xref": 6763,
+      "smask": 6764,
+      "width": 469,
+      "height": 127,
+      "occurrences": 17,
+      "rects_on_first_page": [
+        [
+          168.94,
+          342.11,
+          433.9,
+          413.86
+        ]
+      ]
+    },
+    {
+      "file": "p075_xref2629.png",
+      "first_page": 75,
+      "xref": 2629,
+      "smask": 2628,
+      "width": 1188,
+      "height": 705,
+      "occurrences": 1,
+      "rects_on_first_page": [
+        [
+          -0.0,
+          0.0,
+          593.84,
+          352.37
+        ]
+      ]
+    },
+    {
+      "file": "p075_xref2631.png",
+      "first_page": 75,
+      "xref": 2631,
+      "smask": 2630,
+      "width": 430,
+      "height": 433,
+      "occurrences": 1,
+      "rects_on_first_page": [
+        [
+          36.0,
+          561.26,
+          291.97,
+          819.01
+        ]
+      ]
+    },
+    {
+      "file": "p077_xref2683.png",
+      "first_page": 77,
+      "xref": 2683,
+      "smask": 2682,
+      "width": 1191,
+      "height": 869,
+      "occurrences": 1,
+      "rects_on_first_page": [
+        [
+          0.0,
+          0.0,
+          595.28,
+          434.37
+        ]
+      ]
+    },
+    {
+      "file": "p078_xref2711.png",
+      "first_page": 78,
+      "xref": 2711,
+      "smask": 2710,
+      "width": 492,
+      "height": 445,
+      "occurrences": 1,
+      "rects_on_first_page": [
+        [
+          303.31,
+          583.94,
+          559.12,
+          815.31
+        ]
+      ]
+    },
+    {
+      "file": "p079_xref2735.png",
+      "first_page": 79,
+      "xref": 2735,
+      "smask": 2734,
+      "width": 616,
+      "height": 1597,
+      "occurrences": 1,
+      "rects_on_first_page": [
+        [
+          -0.0,
+          0.0,
+          307.63,
+          798.01
+        ]
+      ]
+    },
+    {
+      "file": "p080_xref2746.png",
+      "first_page": 80,
+      "xref": 2746,
+      "smask": 2745,
+      "width": 561,
+      "height": 679,
+      "occurrences": 1,
+      "rects_on_first_page": [
+        [
+          299.77,
+          482.5,
+          596.7,
+          841.89
+        ]
+      ]
+    },
+    {
+      "file": "p082_xref2814.png",
+      "first_page": 82,
+      "xref": 2814,
+      "smask": 2813,
+      "width": 1176,
+      "height": 1655,
+      "occurrences": 1,
+      "rects_on_first_page": [
+        [
+          -1.34,
+          0.19,
+          596.62,
+          841.7
+        ]
+      ]
+    },
+    {
+      "file": "p083_xref2832.png",
+      "first_page": 83,
+      "xref": 2832,
+      "smask": 2831,
+      "width": 1191,
+      "height": 867,
+      "occurrences": 1,
+      "rects_on_first_page": [
+        [
+          0.0,
+          0.0,
+          595.28,
+          433.44
+        ]
+      ]
+    },
+    {
+      "file": "p085_xref2906.png",
+      "first_page": 85,
+      "xref": 2906,
+      "smask": 2905,
+      "width": 615,
+      "height": 1655,
+      "occurrences": 1,
+      "rects_on_first_page": [
+        [
+          288.5,
+          0.0,
+          596.43,
+          828.66
+        ]
+      ]
+    },
+    {
+      "file": "p087_xref2947.jpx",
+      "first_page": 87,
+      "xref": 2947,
+      "smask": 0,
+      "width": 1175,
+      "height": 1655,
+      "occurrences": 1,
+      "rects_on_first_page": [
+        [
+          -1.28,
+          -0.09,
+          596.56,
+          841.98
+        ]
+      ]
+    },
+    {
+      "file": "p088_xref2964.png",
+      "first_page": 88,
+      "xref": 2964,
+      "smask": 2963,
+      "width": 999,
+      "height": 683,
+      "occurrences": 1,
+      "rects_on_first_page": [
+        [
+          48.1,
+          473.0,
+          589.61,
+          843.21
+        ]
+      ]
+    },
+    {
+      "file": "p089_xref2999.png",
+      "first_page": 89,
+      "xref": 2999,
+      "smask": 2998,
+      "width": 424,
+      "height": 376,
+      "occurrences": 1,
+      "rects_on_first_page": [
+        [
+          0.0,
+          603.26,
+          270.44,
+          843.08
+        ]
+      ]
+    },
+    {
+      "file": "p090_xref3028.png",
+      "first_page": 90,
+      "xref": 3028,
+      "smask": 3027,
+      "width": 1191,
+      "height": 841,
+      "occurrences": 1,
+      "rects_on_first_page": [
+        [
+          0.0,
+          0.0,
+          595.28,
+          420.41
+        ]
+      ]
+    },
+    {
+      "file": "p091_xref3045.png",
+      "first_page": 91,
+      "xref": 3045,
+      "smask": 3044,
+      "width": 1192,
+      "height": 776,
+      "occurrences": 1,
+      "rects_on_first_page": [
+        [
+          0.0,
+          0.0,
+          595.61,
+          387.61
+        ]
+      ]
+    },
+    {
+      "file": "p093_xref3095.png",
+      "first_page": 93,
+      "xref": 3095,
+      "smask": 3094,
+      "width": 588,
+      "height": 934,
+      "occurrences": 1,
+      "rects_on_first_page": [
+        [
+          287.25,
+          318.24,
+          581.1,
+          785.21
+        ]
+      ]
+    },
+    {
+      "file": "p094_xref6773.png",
+      "first_page": 94,
+      "xref": 6773,
+      "smask": 6774,
+      "width": 553,
+      "height": 339,
+      "occurrences": 3,
+      "rects_on_first_page": [
+        [
+          21.28,
+          615.32,
+          297.64,
+          784.42
+        ]
+      ]
+    },
+    {
+      "file": "p095_xref3177.png",
+      "first_page": 95,
+      "xref": 3177,
+      "smask": 3176,
+      "width": 1174,
+      "height": 1655,
+      "occurrences": 1,
+      "rects_on_first_page": [
+        [
+          -1.28,
+          -0.9,
+          596.56,
+          841.89
+        ]
+      ]
+    },
+    {
+      "file": "p096_xref3193.png",
+      "first_page": 96,
+      "xref": 3193,
+      "smask": 3192,
+      "width": 1191,
+      "height": 775,
+      "occurrences": 1,
+      "rects_on_first_page": [
+        [
+          0.0,
+          0.0,
+          595.28,
+          387.39
+        ]
+      ]
+    },
+    {
+      "file": "p098_xref3318.png",
+      "first_page": 98,
+      "xref": 3318,
+      "smask": 3317,
+      "width": 628,
+      "height": 1655,
+      "occurrences": 1,
+      "rects_on_first_page": [
+        [
+          277.8,
+          2.15,
+          596.44,
+          841.89
+        ]
+      ]
+    },
+    {
+      "file": "p101_xref3435.png",
+      "first_page": 101,
+      "xref": 3435,
+      "smask": 3434,
+      "width": 1173,
+      "height": 1655,
+      "occurrences": 1,
+      "rects_on_first_page": [
+        [
+          0.0,
+          0.04,
+          596.65,
+          841.85
+        ]
+      ]
+    },
+    {
+      "file": "p102_xref3486.png",
+      "first_page": 102,
+      "xref": 3486,
+      "smask": 3485,
+      "width": 1191,
+      "height": 1540,
+      "occurrences": 1,
+      "rects_on_first_page": [
+        [
+          0.0,
+          72.22,
+          595.28,
+          841.89
+        ]
+      ]
+    },
+    {
+      "file": "p102_xref3488.png",
+      "first_page": 102,
+      "xref": 3488,
+      "smask": 3487,
+      "width": 469,
+      "height": 117,
+      "occurrences": 1,
+      "rects_on_first_page": [
+        [
+          119.39,
+          -1.61,
+          475.88,
+          87.32
+        ]
+      ]
+    },
+    {
+      "file": "p103_xref3540.png",
+      "first_page": 103,
+      "xref": 3540,
+      "smask": 3539,
+      "width": 1190,
+      "height": 648,
+      "occurrences": 1,
+      "rects_on_first_page": [
+        [
+          0.0,
+          0.0,
+          594.99,
+          323.53
+        ]
+      ]
+    },
+    {
+      "file": "p105_xref3577.png",
+      "first_page": 105,
+      "xref": 3577,
+      "smask": 3576,
+      "width": 596,
+      "height": 777,
+      "occurrences": 1,
+      "rects_on_first_page": [
+        [
+          0.0,
+          3.78,
+          297.64,
+          392.13
+        ]
+      ]
+    },
+    {
+      "file": "p106_xref3605.png",
+      "first_page": 106,
+      "xref": 3605,
+      "smask": 3604,
+      "width": 604,
+      "height": 753,
+      "occurrences": 1,
+      "rects_on_first_page": [
+        [
+          290.78,
+          0.0,
+          595.28,
+          379.61
+        ]
+      ]
+    },
+    {
+      "file": "p106_xref3607.png",
+      "first_page": 106,
+      "xref": 3607,
+      "smask": 3606,
+      "width": 307,
+      "height": 312,
+      "occurrences": 1,
+      "rects_on_first_page": [
+        [
+          -1.51,
+          481.89,
+          297.64,
+          785.91
+        ]
+      ]
+    },
+    {
+      "file": "p108_xref3666.png",
+      "first_page": 108,
+      "xref": 3666,
+      "smask": 3665,
+      "width": 1190,
+      "height": 840,
+      "occurrences": 1,
+      "rects_on_first_page": [
+        [
+          0.0,
+          0.0,
+          594.65,
+          419.5
+        ]
+      ]
+    },
+    {
+      "file": "p109_xref3685.png",
+      "first_page": 109,
+      "xref": 3685,
+      "smask": 3684,
+      "width": 1192,
+      "height": 803,
+      "occurrences": 1,
+      "rects_on_first_page": [
+        [
+          -0.77,
+          0.0,
+          594.94,
+          401.35
+        ]
+      ]
+    },
+    {
+      "file": "p112_xref3766.png",
+      "first_page": 112,
+      "xref": 3766,
+      "smask": 3765,
+      "width": 1163,
+      "height": 983,
+      "occurrences": 1,
+      "rects_on_first_page": [
+        [
+          13.96,
+          0.0,
+          595.28,
+          491.38
+        ]
+      ]
+    },
+    {
+      "file": "p113_xref3806.png",
+      "first_page": 113,
+      "xref": 3806,
+      "smask": 3805,
+      "width": 1194,
+      "height": 738,
+      "occurrences": 1,
+      "rects_on_first_page": [
+        [
+          -0.0,
+          0.0,
+          596.58,
+          368.96
+        ]
+      ]
+    },
+    {
+      "file": "p114_xref3848.png",
+      "first_page": 114,
+      "xref": 3848,
+      "smask": 3847,
+      "width": 827,
+      "height": 601,
+      "occurrences": 1,
+      "rects_on_first_page": [
+        [
+          -1.39,
+          466.72,
+          516.48,
+          843.07
+        ]
+      ]
+    },
+    {
+      "file": "p114_xref3850.png",
+      "first_page": 114,
+      "xref": 3850,
+      "smask": 3849,
+      "width": 474,
+      "height": 479,
+      "occurrences": 1,
+      "rects_on_first_page": [
+        [
+          -1.15,
+          504.58,
+          295.68,
+          804.54
+        ]
+      ]
+    },
+    {
+      "file": "p115_xref3875.png",
+      "first_page": 115,
+      "xref": 3875,
+      "smask": 3874,
+      "width": 1191,
+      "height": 802,
+      "occurrences": 1,
+      "rects_on_first_page": [
+        [
+          0.0,
+          0.0,
+          595.43,
+          400.99
+        ]
+      ]
+    },
+    {
+      "file": "p116_xref3890.png",
+      "first_page": 116,
+      "xref": 3890,
+      "smask": 3889,
+      "width": 576,
+      "height": 443,
+      "occurrences": 1,
+      "rects_on_first_page": [
+        [
+          290.68,
+          584.59,
+          578.27,
+          805.89
+        ]
+      ]
+    },
+    {
+      "file": "p117_xref3913.png",
+      "first_page": 117,
+      "xref": 3913,
+      "smask": 3912,
+      "width": 1174,
+      "height": 607,
+      "occurrences": 1,
+      "rects_on_first_page": [
+        [
+          -0.0,
+          0.0,
+          586.73,
+          303.31
+        ]
+      ]
+    },
+    {
+      "file": "p118_xref3938.png",
+      "first_page": 118,
+      "xref": 3938,
+      "smask": 3937,
+      "width": 1191,
+      "height": 745,
+      "occurrences": 1,
+      "rects_on_first_page": [
+        [
+          0.0,
+          469.84,
+          595.28,
+          841.89
+        ]
+      ]
+    },
+    {
+      "file": "p119_xref3969.png",
+      "first_page": 119,
+      "xref": 3969,
+      "smask": 3968,
+      "width": 1191,
+      "height": 752,
+      "occurrences": 1,
+      "rects_on_first_page": [
+        [
+          0.0,
+          0.0,
+          595.28,
+          375.77
+        ]
+      ]
+    },
+    {
+      "file": "p123_xref4174.png",
+      "first_page": 123,
+      "xref": 4174,
+      "smask": 4173,
+      "width": 1191,
+      "height": 809,
+      "occurrences": 1,
+      "rects_on_first_page": [
+        [
+          0.0,
+          0.0,
+          595.28,
+          404.14
+        ]
+      ]
+    },
+    {
+      "file": "p124_xref4197.png",
+      "first_page": 124,
+      "xref": 4197,
+      "smask": 4196,
+      "width": 601,
+      "height": 705,
+      "occurrences": 1,
+      "rects_on_first_page": [
+        [
+          296.51,
+          449.62,
+          596.52,
+          801.62
+        ]
+      ]
+    },
+    {
+      "file": "p125_xref4218.png",
+      "first_page": 125,
+      "xref": 4218,
+      "smask": 4217,
+      "width": 592,
+      "height": 1655,
+      "occurrences": 1,
+      "rects_on_first_page": [
+        [
+          -1.37,
+          0.0,
+          299.78,
+          841.89
+        ]
+      ]
+    },
+    {
+      "file": "p128_xref4335.png",
+      "first_page": 128,
+      "xref": 4335,
+      "smask": 4334,
+      "width": 1191,
+      "height": 734,
+      "occurrences": 1,
+      "rects_on_first_page": [
+        [
+          -0.0,
+          0.0,
+          595.34,
+          366.97
+        ]
+      ]
+    },
+    {
+      "file": "p129_xref4365.png",
+      "first_page": 129,
+      "xref": 4365,
+      "smask": 4364,
+      "width": 569,
+      "height": 736,
+      "occurrences": 1,
+      "rects_on_first_page": [
+        [
+          293.57,
+          0.0,
+          596.52,
+          391.87
+        ]
+      ]
+    },
+    {
+      "file": "p131_xref4443.png",
+      "first_page": 131,
+      "xref": 4443,
+      "smask": 4442,
+      "width": 1192,
+      "height": 694,
+      "occurrences": 1,
+      "rects_on_first_page": [
+        [
+          0.0,
+          0.0,
+          595.72,
+          346.73
+        ]
+      ]
+    },
+    {
+      "file": "p133_xref4486.png",
+      "first_page": 133,
+      "xref": 4486,
+      "smask": 4485,
+      "width": 1004,
+      "height": 515,
+      "occurrences": 1,
+      "rects_on_first_page": [
+        [
+          46.69,
+          0.0,
+          548.48,
+          257.07
+        ]
+      ]
+    },
+    {
+      "file": "p134_xref4517.png",
+      "first_page": 134,
+      "xref": 4517,
+      "smask": 4516,
+      "width": 1157,
+      "height": 513,
+      "occurrences": 1,
+      "rects_on_first_page": [
+        [
+          17.08,
+          0.0,
+          595.28,
+          256.15
+        ]
+      ]
+    },
+    {
+      "file": "p135_xref4543.png",
+      "first_page": 135,
+      "xref": 4543,
+      "smask": 4542,
+      "width": 675,
+      "height": 652,
+      "occurrences": 1,
+      "rects_on_first_page": [
+        [
+          0.0,
+          504.51,
+          325.88,
+          841.89
+        ]
+      ]
+    },
+    {
+      "file": "p135_xref4545.png",
+      "first_page": 135,
+      "xref": 4545,
+      "smask": 4544,
+      "width": 610,
+      "height": 933,
+      "occurrences": 1,
+      "rects_on_first_page": [
+        [
+          0.0,
+          375.81,
+          304.72,
+          841.89
+        ]
+      ]
+    },
+    {
+      "file": "p137_xref4623.png",
+      "first_page": 137,
+      "xref": 4623,
+      "smask": 4622,
+      "width": 1191,
+      "height": 821,
+      "occurrences": 1,
+      "rects_on_first_page": [
+        [
+          0.0,
+          0.0,
+          595.19,
+          410.12
+        ]
+      ]
+    },
+    {
+      "file": "p138_xref4671.png",
+      "first_page": 138,
+      "xref": 4671,
+      "smask": 4670,
+      "width": 597,
+      "height": 844,
+      "occurrences": 1,
+      "rects_on_first_page": [
+        [
+          -1.15,
+          409.61,
+          304.62,
+          841.89
+        ]
+      ]
+    },
+    {
+      "file": "p140_xref4752.jpx",
+      "first_page": 140,
+      "xref": 4752,
+      "smask": 0,
+      "width": 1175,
+      "height": 1655,
+      "occurrences": 1,
+      "rects_on_first_page": [
+        [
+          -1.25,
+          -0.09,
+          596.53,
+          841.89
+        ]
+      ]
+    },
+    {
+      "file": "p141_xref4763.png",
+      "first_page": 141,
+      "xref": 4763,
+      "smask": 4762,
+      "width": 1191,
+      "height": 1039,
+      "occurrences": 1,
+      "rects_on_first_page": [
+        [
+          0.0,
+          0.0,
+          595.28,
+          519.01
+        ]
+      ]
+    },
+    {
+      "file": "p142_xref4790.png",
+      "first_page": 142,
+      "xref": 4790,
+      "smask": 4789,
+      "width": 290,
+      "height": 422,
+      "occurrences": 1,
+      "rects_on_first_page": [
+        [
+          332.88,
+          555.59,
+          529.83,
+          842.18
+        ]
+      ]
+    },
+    {
+      "file": "p143_xref4826.png",
+      "first_page": 143,
+      "xref": 4826,
+      "smask": 4825,
+      "width": 575,
+      "height": 772,
+      "occurrences": 1,
+      "rects_on_first_page": [
+        [
+          301.1,
+          456.23,
+          588.18,
+          841.89
+        ]
+      ]
+    },
+    {
+      "file": "p144_xref4849.png",
+      "first_page": 144,
+      "xref": 4849,
+      "smask": 4848,
+      "width": 1191,
+      "height": 820,
+      "occurrences": 1,
+      "rects_on_first_page": [
+        [
+          0.0,
+          0.0,
+          595.28,
+          409.72
+        ]
+      ]
+    },
+    {
+      "file": "p145_xref4864.png",
+      "first_page": 145,
+      "xref": 4864,
+      "smask": 4863,
+      "width": 1193,
+      "height": 845,
+      "occurrences": 1,
+      "rects_on_first_page": [
+        [
+          -0.0,
+          419.43,
+          596.38,
+          841.89
+        ]
+      ]
+    },
+    {
+      "file": "p149_xref4962.png",
+      "first_page": 149,
+      "xref": 4962,
+      "smask": 4961,
+      "width": 1176,
+      "height": 1655,
+      "occurrences": 1,
+      "rects_on_first_page": [
+        [
+          -1.49,
+          -0.03,
+          596.76,
+          841.89
+        ]
+      ]
+    },
+    {
+      "file": "p151_xref4993.png",
+      "first_page": 151,
+      "xref": 4993,
+      "smask": 4992,
+      "width": 1191,
+      "height": 789,
+      "occurrences": 1,
+      "rects_on_first_page": [
+        [
+          -0.0,
+          0.0,
+          595.36,
+          394.42
+        ]
+      ]
+    },
+    {
+      "file": "p152_xref5018.png",
+      "first_page": 152,
+      "xref": 5018,
+      "smask": 5017,
+      "width": 1191,
+      "height": 767,
+      "occurrences": 1,
+      "rects_on_first_page": [
+        [
+          0.0,
+          0.0,
+          595.28,
+          383.21
+        ]
+      ]
+    },
+    {
+      "file": "p152_xref6775.png",
+      "first_page": 152,
+      "xref": 6775,
+      "smask": 6776,
+      "width": 507,
+      "height": 126,
+      "occurrences": 7,
+      "rects_on_first_page": [
+        [
+          134.15,
+          300.75,
+          461.12,
+          382.01
+        ]
+      ]
+    },
+    {
+      "file": "p153_xref5066.png",
+      "first_page": 153,
+      "xref": 5066,
+      "smask": 5065,
+      "width": 621,
+      "height": 899,
+      "occurrences": 1,
+      "rects_on_first_page": [
+        [
+          -0.0,
+          0.0,
+          310.04,
+          449.16
+        ]
+      ]
+    },
+    {
+      "file": "p154_xref5132.png",
+      "first_page": 154,
+      "xref": 5132,
+      "smask": 5131,
+      "width": 580,
+      "height": 875,
+      "occurrences": 1,
+      "rects_on_first_page": [
+        [
+          270.82,
+          350.67,
+          596.42,
+          841.89
+        ]
+      ]
+    },
+    {
+      "file": "p154_xref5134.png",
+      "first_page": 154,
+      "xref": 5134,
+      "smask": 5133,
+      "width": 611,
+      "height": 1051,
+      "occurrences": 1,
+      "rects_on_first_page": [
+        [
+          290.34,
+          317.91,
+          595.8,
+          843.35
+        ]
+      ]
+    },
+    {
+      "file": "p155_xref5171.png",
+      "first_page": 155,
+      "xref": 5171,
+      "smask": 5170,
+      "width": 1191,
+      "height": 936,
+      "occurrences": 1,
+      "rects_on_first_page": [
+        [
+          0.0,
+          0.0,
+          595.28,
+          467.85
+        ]
+      ]
+    },
+    {
+      "file": "p157_xref5208.png",
+      "first_page": 157,
+      "xref": 5208,
+      "smask": 5207,
+      "width": 626,
+      "height": 1557,
+      "occurrences": 1,
+      "rects_on_first_page": [
+        [
+          -0.0,
+          0.0,
+          312.65,
+          778.11
+        ]
+      ]
+    },
+    {
+      "file": "p159_xref5271.png",
+      "first_page": 159,
+      "xref": 5271,
+      "smask": 5270,
+      "width": 1121,
+      "height": 653,
+      "occurrences": 1,
+      "rects_on_first_page": [
+        [
+          0.0,
+          495.59,
+          596.57,
+          843.1
+        ]
+      ]
+    },
+    {
+      "file": "p160_xref5308.png",
+      "first_page": 160,
+      "xref": 5308,
+      "smask": 5307,
+      "width": 681,
+      "height": 514,
+      "occurrences": 1,
+      "rects_on_first_page": [
+        [
+          296.61,
+          445.46,
+          596.75,
+          843.11
+        ]
+      ]
+    },
+    {
+      "file": "p160_xref5310.png",
+      "first_page": 160,
+      "xref": 5310,
+      "smask": 5309,
+      "width": 556,
+      "height": 754,
+      "occurrences": 1,
+      "rects_on_first_page": [
+        [
+          302.33,
+          445.36,
+          594.73,
+          841.89
+        ]
+      ]
+    },
+    {
+      "file": "p161_xref5335.png",
+      "first_page": 161,
+      "xref": 5335,
+      "smask": 5334,
+      "width": 1191,
+      "height": 799,
+      "occurrences": 1,
+      "rects_on_first_page": [
+        [
+          0.0,
+          0.0,
+          595.28,
+          399.49
+        ]
+      ]
+    },
+    {
+      "file": "p163_xref5403.png",
+      "first_page": 163,
+      "xref": 5403,
+      "smask": 5402,
+      "width": 1193,
+      "height": 836,
+      "occurrences": 1,
+      "rects_on_first_page": [
+        [
+          0.0,
+          424.22,
+          596.47,
+          841.89
+        ]
+      ]
+    },
+    {
+      "file": "p164_xref5431.png",
+      "first_page": 164,
+      "xref": 5431,
+      "smask": 5430,
+      "width": 1191,
+      "height": 858,
+      "occurrences": 1,
+      "rects_on_first_page": [
+        [
+          0.0,
+          0.0,
+          595.28,
+          428.78
+        ]
+      ]
+    },
+    {
+      "file": "p165_xref5474.png",
+      "first_page": 165,
+      "xref": 5474,
+      "smask": 5473,
+      "width": 607,
+      "height": 1554,
+      "occurrences": 1,
+      "rects_on_first_page": [
+        [
+          -0.73,
+          0.0,
+          302.44,
+          776.69
+        ]
+      ]
+    },
+    {
+      "file": "p166_xref5505.jpx",
+      "first_page": 166,
+      "xref": 5505,
+      "smask": 0,
+      "width": 1174,
+      "height": 1655,
+      "occurrences": 1,
+      "rects_on_first_page": [
+        [
+          -1.45,
+          0.0,
+          595.28,
+          841.2
+        ]
+      ]
+    },
+    {
+      "file": "p169_xref5581.png",
+      "first_page": 169,
+      "xref": 5581,
+      "smask": 5580,
+      "width": 542,
+      "height": 436,
+      "occurrences": 1,
+      "rects_on_first_page": [
+        [
+          292.19,
+          583.0,
+          592.56,
+          824.63
+        ]
+      ]
+    },
+    {
+      "file": "p170_xref5607.png",
+      "first_page": 170,
+      "xref": 5607,
+      "smask": 5606,
+      "width": 1174,
+      "height": 1587,
+      "occurrences": 1,
+      "rects_on_first_page": [
+        [
+          -1.28,
+          15.44,
+          596.68,
+          823.76
+        ]
+      ]
+    },
+    {
+      "file": "p172_xref5660.png",
+      "first_page": 172,
+      "xref": 5660,
+      "smask": 5659,
+      "width": 1191,
+      "height": 827,
+      "occurrences": 1,
+      "rects_on_first_page": [
+        [
+          0.0,
+          0.0,
+          595.19,
+          413.38
+        ]
+      ]
+    },
+    {
+      "file": "p173_xref5684.png",
+      "first_page": 173,
+      "xref": 5684,
+      "smask": 5683,
+      "width": 1193,
+      "height": 876,
+      "occurrences": 1,
+      "rects_on_first_page": [
+        [
+          0.0,
+          0.0,
+          596.41,
+          437.62
+        ]
+      ]
+    },
+    {
+      "file": "p174_xref5708.png",
+      "first_page": 174,
+      "xref": 5708,
+      "smask": 5707,
+      "width": 688,
+      "height": 1655,
+      "occurrences": 1,
+      "rects_on_first_page": [
+        [
+          246.55,
+          0.0,
+          596.53,
+          841.89
+        ]
+      ]
+    },
+    {
+      "file": "p175_xref5740.png",
+      "first_page": 175,
+      "xref": 5740,
+      "smask": 5739,
+      "width": 1196,
+      "height": 735,
+      "occurrences": 1,
+      "rects_on_first_page": [
+        [
+          -1.24,
+          0.0,
+          596.36,
+          367.46
+        ]
+      ]
+    },
+    {
+      "file": "p177_xref5805.png",
+      "first_page": 177,
+      "xref": 5805,
+      "smask": 5804,
+      "width": 1191,
+      "height": 749,
+      "occurrences": 1,
+      "rects_on_first_page": [
+        [
+          0.0,
+          467.52,
+          595.28,
+          841.89
+        ]
+      ]
+    },
+    {
+      "file": "p179_xref5899.png",
+      "first_page": 179,
+      "xref": 5899,
+      "smask": 5898,
+      "width": 399,
+      "height": 305,
+      "occurrences": 1,
+      "rects_on_first_page": [
+        [
+          331.72,
+          671.61,
+          530.86,
+          823.86
+        ]
+      ]
+    },
+    {
+      "file": "p180_xref5928.png",
+      "first_page": 180,
+      "xref": 5928,
+      "smask": 5927,
+      "width": 353,
+      "height": 279,
+      "occurrences": 1,
+      "rects_on_first_page": [
+        [
+          315.89,
+          648.86,
+          546.3,
+          830.97
+        ]
+      ]
+    },
+    {
+      "file": "p182_xref5968.png",
+      "first_page": 182,
+      "xref": 5968,
+      "smask": 5967,
+      "width": 609,
+      "height": 1192,
+      "occurrences": 1,
+      "rects_on_first_page": [
+        [
+          290.96,
+          245.9,
+          595.28,
+          841.89
+        ]
+      ]
+    },
+    {
+      "file": "p184_xref6006.png",
+      "first_page": 184,
+      "xref": 6006,
+      "smask": 6005,
+      "width": 1191,
+      "height": 1212,
+      "occurrences": 1,
+      "rects_on_first_page": [
+        [
+          0.0,
+          235.92,
+          595.28,
+          841.89
+        ]
+      ]
+    },
+    {
+      "file": "p185_xref6034.png",
+      "first_page": 185,
+      "xref": 6034,
+      "smask": 6033,
+      "width": 605,
+      "height": 770,
+      "occurrences": 1,
+      "rects_on_first_page": [
+        [
+          292.85,
+          0.0,
+          595.28,
+          384.65
+        ]
+      ]
+    },
+    {
+      "file": "p186_xref6077.png",
+      "first_page": 186,
+      "xref": 6077,
+      "smask": 6076,
+      "width": 607,
+      "height": 785,
+      "occurrences": 1,
+      "rects_on_first_page": [
+        [
+          -0.0,
+          0.0,
+          303.31,
+          392.17
+        ]
+      ]
+    },
+    {
+      "file": "p187_xref6103.png",
+      "first_page": 187,
+      "xref": 6103,
+      "smask": 6102,
+      "width": 1191,
+      "height": 960,
+      "occurrences": 1,
+      "rects_on_first_page": [
+        [
+          0.0,
+          0.0,
+          595.28,
+          479.94
+        ]
+      ]
+    },
+    {
+      "file": "p189_xref6156.png",
+      "first_page": 189,
+      "xref": 6156,
+      "smask": 6155,
+      "width": 1191,
+      "height": 945,
+      "occurrences": 1,
+      "rects_on_first_page": [
+        [
+          0.0,
+          0.0,
+          595.28,
+          472.04
+        ]
+      ]
+    },
+    {
+      "file": "p192_xref6291.png",
+      "first_page": 192,
+      "xref": 6291,
+      "smask": 6290,
+      "width": 607,
+      "height": 607,
+      "occurrences": 1,
+      "rects_on_first_page": [
+        [
+          291.97,
+          420.95,
+          595.28,
+          724.25
+        ]
+      ]
+    },
+    {
+      "file": "p193_xref6335.png",
+      "first_page": 193,
+      "xref": 6335,
+      "smask": 6334,
+      "width": 1194,
+      "height": 793,
+      "occurrences": 1,
+      "rects_on_first_page": [
+        [
+          -1.3,
+          0.0,
+          595.28,
+          396.3
+        ]
+      ]
+    },
+    {
+      "file": "p194_xref6372.png",
+      "first_page": 194,
+      "xref": 6372,
+      "smask": 6371,
+      "width": 1174,
+      "height": 1655,
+      "occurrences": 1,
+      "rects_on_first_page": [
+        [
+          -1.16,
+          0.0,
+          596.44,
+          842.44
+        ]
+      ]
+    },
+    {
+      "file": "p195_xref6392.png",
+      "first_page": 195,
+      "xref": 6392,
+      "smask": 6391,
+      "width": 1193,
+      "height": 756,
+      "occurrences": 1,
+      "rects_on_first_page": [
+        [
+          -1.17,
+          0.0,
+          595.28,
+          377.62
+        ]
+      ]
+    },
+    {
+      "file": "p196_xref6412.png",
+      "first_page": 196,
+      "xref": 6412,
+      "smask": 6411,
+      "width": 1175,
+      "height": 1655,
+      "occurrences": 1,
+      "rects_on_first_page": [
+        [
+          -1.25,
+          0.0,
+          596.46,
+          841.89
+        ]
+      ]
+    },
+    {
+      "file": "p197_xref6441.png",
+      "first_page": 197,
+      "xref": 6441,
+      "smask": 6440,
+      "width": 1193,
+      "height": 731,
+      "occurrences": 1,
+      "rects_on_first_page": [
+        [
+          -1.19,
+          0.0,
+          595.28,
+          365.0
+        ]
+      ]
+    },
+    {
+      "file": "p197_xref6778.png",
+      "first_page": 197,
+      "xref": 6778,
+      "smask": 6779,
+      "width": 1095,
+      "height": 177,
+      "occurrences": 3,
+      "rects_on_first_page": [
+        [
+          0.0,
+          272.13,
+          595.28,
+          368.35
+        ]
+      ]
+    },
+    {
+      "file": "p199_xref6575.jpx",
+      "first_page": 199,
+      "xref": 6575,
+      "smask": 0,
+      "width": 1173,
+      "height": 1655,
+      "occurrences": 1,
+      "rects_on_first_page": [
+        [
+          0.0,
+          0.0,
+          596.71,
+          841.91
+        ]
+      ]
+    },
+    {
+      "file": "p200_xref6585.png",
+      "first_page": 200,
+      "xref": 6585,
+      "smask": 6584,
+      "width": 1194,
+      "height": 683,
+      "occurrences": 1,
+      "rects_on_first_page": [
+        [
+          -1.34,
+          0.0,
+          595.3,
+          341.35
+        ]
+      ]
+    },
+    {
+      "file": "p200_xref6587.png",
+      "first_page": 200,
+      "xref": 6587,
+      "smask": 6586,
+      "width": 49,
+      "height": 1655,
+      "occurrences": 1,
+      "rects_on_first_page": [
+        [
+          -1.3,
+          0.0,
+          23.62,
+          841.89
+        ]
+      ]
+    },
+    {
+      "file": "p203_xref6609.png",
+      "first_page": 203,
+      "xref": 6609,
+      "smask": 6608,
+      "width": 1194,
+      "height": 1533,
+      "occurrences": 1,
+      "rects_on_first_page": [
+        [
+          0.0,
+          37.57,
+          596.65,
+          803.98
+        ]
+      ]
+    },
+    {
+      "file": "p204_xref6780.png",
+      "first_page": 204,
+      "xref": 6780,
+      "smask": 6781,
+      "width": 515,
+      "height": 280,
+      "occurrences": 2,
+      "rects_on_first_page": [
+        [
+          34.85,
+          681.73,
+          291.97,
+          821.68
+        ]
+      ]
+    },
+    {
+      "file": "p207_xref6641.png",
+      "first_page": 207,
+      "xref": 6641,
+      "smask": 6640,
+      "width": 694,
+      "height": 390,
+      "occurrences": 1,
+      "rects_on_first_page": [
+        [
+          124.4,
+          629.58,
+          471.36,
+          824.48
+        ]
+      ]
+    },
+    {
+      "file": "p208_xref6656.png",
+      "first_page": 208,
+      "xref": 6656,
+      "smask": 6655,
+      "width": 1193,
+      "height": 691,
+      "occurrences": 1,
+      "rects_on_first_page": [
+        [
+          0.0,
+          0.0,
+          596.29,
+          345.43
+        ]
+      ]
+    },
+    {
+      "file": "p209_xref6671.jpx",
+      "first_page": 209,
+      "xref": 6671,
+      "smask": 0,
+      "width": 1195,
+      "height": 1683,
+      "occurrences": 1,
+      "rects_on_first_page": [
+        [
+          -1.01,
+          0.24,
+          596.29,
+          841.65
+        ]
+      ]
+    },
+    {
+      "file": "p210_xref6680.png",
+      "first_page": 210,
+      "xref": 6680,
+      "smask": 6679,
+      "width": 851,
+      "height": 851,
+      "occurrences": 1,
+      "rects_on_first_page": [
+        [
+          85.06,
+          36.0,
+          510.21,
+          461.15
+        ]
+      ]
+    },
+    {
+      "file": "p211_xref6691.jpx",
+      "first_page": 211,
+      "xref": 6691,
+      "smask": 0,
+      "width": 1196,
+      "height": 1240,
+      "occurrences": 1,
+      "rects_on_first_page": [
+        [
+          -1.12,
+          111.01,
+          596.4,
+          730.97
+        ]
+      ]
+    }
+  ],
+  "overlay_renders": [
+    {
+      "file": "p010_xref341_map1.png",
+      "page": 10,
+      "xref": 341,
+      "overlapping_blocks": 42,
+      "clip": [
+        342.07,
+        60.95,
+        578.09,
+        794.49
+      ]
+    },
+    {
+      "file": "p056_xref2005_map1.png",
+      "page": 56,
+      "xref": 2005,
+      "overlapping_blocks": 4,
+      "clip": [
+        0.0,
+        0.0,
+        559.28,
+        391.84
+      ]
+    },
+    {
+      "file": "p064_xref2258_map1.png",
+      "page": 64,
+      "xref": 2258,
+      "overlapping_blocks": 4,
+      "clip": [
+        34.9,
+        21.1,
+        555.19,
+        820.78
+      ]
+    },
+    {
+      "file": "p075_xref2629_map1.png",
+      "page": 75,
+      "xref": 2629,
+      "overlapping_blocks": 4,
+      "clip": [
+        0.0,
+        0.0,
+        593.84,
+        352.37
+      ]
+    },
+    {
+      "file": "p079_xref2735_map1.png",
+      "page": 79,
+      "xref": 2735,
+      "overlapping_blocks": 33,
+      "clip": [
+        0.0,
+        0.0,
+        307.63,
+        798.01
+      ]
+    },
+    {
+      "file": "p085_xref2906_map1.png",
+      "page": 85,
+      "xref": 2906,
+      "overlapping_blocks": 28,
+      "clip": [
+        288.5,
+        0.0,
+        595.28,
+        828.66
+      ]
+    },
+    {
+      "file": "p088_xref2964_map1.png",
+      "page": 88,
+      "xref": 2964,
+      "overlapping_blocks": 7,
+      "clip": [
+        48.1,
+        473.0,
+        589.61,
+        841.89
+      ]
+    },
+    {
+      "file": "p093_xref3095_map1.png",
+      "page": 93,
+      "xref": 3095,
+      "overlapping_blocks": 8,
+      "clip": [
+        287.25,
+        318.24,
+        581.1,
+        785.21
+      ]
+    },
+    {
+      "file": "p098_xref3318_map1.png",
+      "page": 98,
+      "xref": 3318,
+      "overlapping_blocks": 15,
+      "clip": [
+        277.8,
+        2.15,
+        595.28,
+        841.89
+      ]
+    },
+    {
+      "file": "p102_xref3486_map1.png",
+      "page": 102,
+      "xref": 3486,
+      "overlapping_blocks": 13,
+      "clip": [
+        0.0,
+        72.22,
+        595.28,
+        841.89
+      ]
+    },
+    {
+      "file": "p106_xref3605_map1.png",
+      "page": 106,
+      "xref": 3605,
+      "overlapping_blocks": 5,
+      "clip": [
+        290.78,
+        0.0,
+        595.28,
+        379.61
+      ]
+    },
+    {
+      "file": "p112_xref3766_map1.png",
+      "page": 112,
+      "xref": 3766,
+      "overlapping_blocks": 8,
+      "clip": [
+        13.96,
+        0.0,
+        595.28,
+        491.38
+      ]
+    },
+    {
+      "file": "p117_xref3913_map1.png",
+      "page": 117,
+      "xref": 3913,
+      "overlapping_blocks": 7,
+      "clip": [
+        0.0,
+        0.0,
+        586.73,
+        303.31
+      ]
+    },
+    {
+      "file": "p125_xref4218_map1.png",
+      "page": 125,
+      "xref": 4218,
+      "overlapping_blocks": 34,
+      "clip": [
+        0.0,
+        0.0,
+        299.78,
+        841.89
+      ]
+    },
+    {
+      "file": "p129_xref4365_map1.png",
+      "page": 129,
+      "xref": 4365,
+      "overlapping_blocks": 4,
+      "clip": [
+        293.57,
+        0.0,
+        595.28,
+        391.87
+      ]
+    },
+    {
+      "file": "p133_xref4486_map1.png",
+      "page": 133,
+      "xref": 4486,
+      "overlapping_blocks": 3,
+      "clip": [
+        46.69,
+        0.0,
+        548.48,
+        257.07
+      ]
+    },
+    {
+      "file": "p138_xref4671_map1.png",
+      "page": 138,
+      "xref": 4671,
+      "overlapping_blocks": 8,
+      "clip": [
+        0.0,
+        409.61,
+        304.62,
+        841.89
+      ]
+    },
+    {
+      "file": "p143_xref4826_map1.png",
+      "page": 143,
+      "xref": 4826,
+      "overlapping_blocks": 14,
+      "clip": [
+        301.1,
+        456.23,
+        588.18,
+        841.89
+      ]
+    },
+    {
+      "file": "p145_xref4864_map1.png",
+      "page": 145,
+      "xref": 4864,
+      "overlapping_blocks": 9,
+      "clip": [
+        0.0,
+        419.43,
+        595.28,
+        841.89
+      ]
+    },
+    {
+      "file": "p153_xref5066_map1.png",
+      "page": 153,
+      "xref": 5066,
+      "overlapping_blocks": 6,
+      "clip": [
+        0.0,
+        0.0,
+        310.04,
+        449.16
+      ]
+    },
+    {
+      "file": "p157_xref5208_map1.png",
+      "page": 157,
+      "xref": 5208,
+      "overlapping_blocks": 21,
+      "clip": [
+        0.0,
+        0.0,
+        312.65,
+        778.11
+      ]
+    },
+    {
+      "file": "p163_xref5403_map1.png",
+      "page": 163,
+      "xref": 5403,
+      "overlapping_blocks": 7,
+      "clip": [
+        0.0,
+        424.22,
+        595.28,
+        841.89
+      ]
+    },
+    {
+      "file": "p165_xref5474_map1.png",
+      "page": 165,
+      "xref": 5474,
+      "overlapping_blocks": 11,
+      "clip": [
+        0.0,
+        0.0,
+        302.44,
+        776.69
+      ]
+    },
+    {
+      "file": "p173_xref5684_map1.png",
+      "page": 173,
+      "xref": 5684,
+      "overlapping_blocks": 11,
+      "clip": [
+        0.0,
+        0.0,
+        595.28,
+        437.62
+      ]
+    },
+    {
+      "file": "p177_xref5805_map1.png",
+      "page": 177,
+      "xref": 5805,
+      "overlapping_blocks": 6,
+      "clip": [
+        0.0,
+        467.52,
+        595.28,
+        841.89
+      ]
+    },
+    {
+      "file": "p182_xref5968_map1.png",
+      "page": 182,
+      "xref": 5968,
+      "overlapping_blocks": 40,
+      "clip": [
+        290.96,
+        245.9,
+        595.28,
+        841.89
+      ]
+    },
+    {
+      "file": "p185_xref6034_map1.png",
+      "page": 185,
+      "xref": 6034,
+      "overlapping_blocks": 24,
+      "clip": [
+        292.85,
+        0.0,
+        595.28,
+        384.65
+      ]
+    },
+    {
+      "file": "p186_xref6077_map1.png",
+      "page": 186,
+      "xref": 6077,
+      "overlapping_blocks": 25,
+      "clip": [
+        0.0,
+        0.0,
+        303.31,
+        392.17
+      ]
+    }
+  ]
+}

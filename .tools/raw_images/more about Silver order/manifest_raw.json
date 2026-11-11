@@ -1,0 +1,875 @@
+{
+  "pdf": "more about Silver order.pdf",
+  "pages": 8,
+  "unique_xrefs": 51,
+  "extracted_xrefs": [
+    {
+      "file": "p001_xref4.jpeg",
+      "first_page": 1,
+      "xref": 4,
+      "smask": 0,
+      "width": 2560,
+      "height": 1090,
+      "occurrences": 4,
+      "rects_on_first_page": [
+        [
+          0.24,
+          -0.12,
+          1870.68,
+          796.32
+        ]
+      ]
+    },
+    {
+      "file": "p001_xref5.jpeg",
+      "first_page": 1,
+      "xref": 5,
+      "smask": 0,
+      "width": 1024,
+      "height": 1024,
+      "occurrences": 1,
+      "rects_on_first_page": [
+        [
+          0.24,
+          -0.12,
+          771.84,
+          771.6
+        ]
+      ]
+    },
+    {
+      "file": "p001_xref8.jpeg",
+      "first_page": 1,
+      "xref": 8,
+      "smask": 0,
+      "width": 573,
+      "height": 578,
+      "occurrences": 1,
+      "rects_on_first_page": [
+        [
+          264.0,
+          6.48,
+          332.88,
+          75.96
+        ]
+      ]
+    },
+    {
+      "file": "p001_xref9.jpeg",
+      "first_page": 1,
+      "xref": 9,
+      "smask": 0,
+      "width": 2879,
+      "height": 234,
+      "occurrences": 1,
+      "rects_on_first_page": [
+        [
+          125.28,
+          149.88,
+          471.24,
+          178.08
+        ]
+      ]
+    },
+    {
+      "file": "p001_xref10.jpeg",
+      "first_page": 1,
+      "xref": 10,
+      "smask": 0,
+      "width": 2472,
+      "height": 480,
+      "occurrences": 1,
+      "rects_on_first_page": [
+        [
+          0.0,
+          604.92,
+          297.0,
+          662.64
+        ]
+      ]
+    },
+    {
+      "file": "p002_xref16.jpeg",
+      "first_page": 2,
+      "xref": 16,
+      "smask": 0,
+      "width": 4956,
+      "height": 5289,
+      "occurrences": 1,
+      "rects_on_first_page": [
+        [
+          0.0,
+          0.0,
+          595.68,
+          635.4
+        ]
+      ]
+    },
+    {
+      "file": "p002_xref17.jpeg",
+      "first_page": 2,
+      "xref": 17,
+      "smask": 0,
+      "width": 4956,
+      "height": 1726,
+      "occurrences": 1,
+      "rects_on_first_page": [
+        [
+          0.0,
+          635.4,
+          595.68,
+          842.76
+        ]
+      ]
+    },
+    {
+      "file": "p003_xref21.jpeg",
+      "first_page": 3,
+      "xref": 21,
+      "smask": 0,
+      "width": 4956,
+      "height": 5289,
+      "occurrences": 1,
+      "rects_on_first_page": [
+        [
+          0.0,
+          0.0,
+          595.68,
+          635.4
+        ]
+      ]
+    },
+    {
+      "file": "p003_xref22.jpeg",
+      "first_page": 3,
+      "xref": 22,
+      "smask": 0,
+      "width": 4956,
+      "height": 1726,
+      "occurrences": 1,
+      "rects_on_first_page": [
+        [
+          0.0,
+          635.4,
+          595.68,
+          842.76
+        ]
+      ]
+    },
+    {
+      "file": "p004_xref26.jpeg",
+      "first_page": 4,
+      "xref": 26,
+      "smask": 0,
+      "width": 4956,
+      "height": 5289,
+      "occurrences": 1,
+      "rects_on_first_page": [
+        [
+          0.0,
+          0.0,
+          595.68,
+          635.4
+        ]
+      ]
+    },
+    {
+      "file": "p004_xref27.jpeg",
+      "first_page": 4,
+      "xref": 27,
+      "smask": 0,
+      "width": 4956,
+      "height": 1726,
+      "occurrences": 1,
+      "rects_on_first_page": [
+        [
+          0.0,
+          635.4,
+          595.68,
+          842.76
+        ]
+      ]
+    },
+    {
+      "file": "p005_xref31.jpeg",
+      "first_page": 5,
+      "xref": 31,
+      "smask": 0,
+      "width": 4956,
+      "height": 5289,
+      "occurrences": 1,
+      "rects_on_first_page": [
+        [
+          0.0,
+          0.0,
+          595.68,
+          635.4
+        ]
+      ]
+    },
+    {
+      "file": "p005_xref32.jpeg",
+      "first_page": 5,
+      "xref": 32,
+      "smask": 0,
+      "width": 4956,
+      "height": 1726,
+      "occurrences": 1,
+      "rects_on_first_page": [
+        [
+          0.0,
+          635.4,
+          595.68,
+          842.76
+        ]
+      ]
+    },
+    {
+      "file": "p006_xref36.jpeg",
+      "first_page": 6,
+      "xref": 36,
+      "smask": 0,
+      "width": 913,
+      "height": 3152,
+      "occurrences": 1,
+      "rects_on_first_page": [
+        [
+          22.08,
+          14.52,
+          241.44,
+          771.84
+        ]
+      ]
+    },
+    {
+      "file": "p006_xref37.jpeg",
+      "first_page": 6,
+      "xref": 37,
+      "smask": 0,
+      "width": 913,
+      "height": 3151,
+      "occurrences": 1,
+      "rects_on_first_page": [
+        [
+          355.32,
+          0.0,
+          574.56,
+          756.96
+        ]
+      ]
+    },
+    {
+      "file": "p006_xref38.jpeg",
+      "first_page": 6,
+      "xref": 38,
+      "smask": 0,
+      "width": 1825,
+      "height": 3385,
+      "occurrences": 1,
+      "rects_on_first_page": [
+        [
+          22.08,
+          365.16,
+          241.44,
+          771.84
+        ]
+      ]
+    },
+    {
+      "file": "p006_xref39.jpeg",
+      "first_page": 6,
+      "xref": 39,
+      "smask": 0,
+      "width": 2478,
+      "height": 3212,
+      "occurrences": 1,
+      "rects_on_first_page": [
+        [
+          0.24,
+          0.0,
+          595.68,
+          771.6
+        ]
+      ]
+    },
+    {
+      "file": "p006_xref56.jpeg",
+      "first_page": 6,
+      "xref": 56,
+      "smask": 0,
+      "width": 4956,
+      "height": 308,
+      "occurrences": 1,
+      "rects_on_first_page": [
+        [
+          0.12,
+          734.76,
+          595.68,
+          771.84
+        ]
+      ]
+    },
+    {
+      "file": "p007_xref69.jpeg",
+      "first_page": 7,
+      "xref": 69,
+      "smask": 0,
+      "width": 3899,
+      "height": 244,
+      "occurrences": 1,
+      "rects_on_first_page": [
+        [
+          72.48,
+          233.76,
+          540.96,
+          263.04
+        ]
+      ]
+    },
+    {
+      "file": "p007_xref70.jpeg",
+      "first_page": 7,
+      "xref": 70,
+      "smask": 0,
+      "width": 140,
+      "height": 244,
+      "occurrences": 1,
+      "rects_on_first_page": [
+        [
+          55.8,
+          292.2,
+          72.6,
+          321.48
+        ]
+      ]
+    },
+    {
+      "file": "p007_xref71.jpeg",
+      "first_page": 7,
+      "xref": 71,
+      "smask": 0,
+      "width": 3899,
+      "height": 244,
+      "occurrences": 1,
+      "rects_on_first_page": [
+        [
+          72.48,
+          292.2,
+          540.96,
+          321.48
+        ]
+      ]
+    },
+    {
+      "file": "p007_xref72.jpeg",
+      "first_page": 7,
+      "xref": 72,
+      "smask": 0,
+      "width": 140,
+      "height": 244,
+      "occurrences": 1,
+      "rects_on_first_page": [
+        [
+          55.8,
+          350.64,
+          72.6,
+          379.92
+        ]
+      ]
+    },
+    {
+      "file": "p007_xref73.jpeg",
+      "first_page": 7,
+      "xref": 73,
+      "smask": 0,
+      "width": 3899,
+      "height": 244,
+      "occurrences": 1,
+      "rects_on_first_page": [
+        [
+          72.48,
+          350.64,
+          540.96,
+          379.92
+        ]
+      ]
+    },
+    {
+      "file": "p007_xref74.jpeg",
+      "first_page": 7,
+      "xref": 74,
+      "smask": 0,
+      "width": 140,
+      "height": 244,
+      "occurrences": 1,
+      "rects_on_first_page": [
+        [
+          55.8,
+          409.08,
+          72.6,
+          438.36
+        ]
+      ]
+    },
+    {
+      "file": "p007_xref75.jpeg",
+      "first_page": 7,
+      "xref": 75,
+      "smask": 0,
+      "width": 3899,
+      "height": 244,
+      "occurrences": 1,
+      "rects_on_first_page": [
+        [
+          72.48,
+          409.08,
+          540.96,
+          438.36
+        ]
+      ]
+    },
+    {
+      "file": "p007_xref76.jpeg",
+      "first_page": 7,
+      "xref": 76,
+      "smask": 0,
+      "width": 140,
+      "height": 245,
+      "occurrences": 1,
+      "rects_on_first_page": [
+        [
+          55.8,
+          490.8,
+          72.6,
+          520.2
+        ]
+      ]
+    },
+    {
+      "file": "p007_xref77.jpeg",
+      "first_page": 7,
+      "xref": 77,
+      "smask": 0,
+      "width": 3899,
+      "height": 245,
+      "occurrences": 1,
+      "rects_on_first_page": [
+        [
+          72.48,
+          490.8,
+          540.96,
+          520.2
+        ]
+      ]
+    },
+    {
+      "file": "p007_xref78.jpeg",
+      "first_page": 7,
+      "xref": 78,
+      "smask": 0,
+      "width": 140,
+      "height": 342,
+      "occurrences": 1,
+      "rects_on_first_page": [
+        [
+          55.8,
+          561.0,
+          72.6,
+          602.04
+        ]
+      ]
+    },
+    {
+      "file": "p007_xref60.jpeg",
+      "first_page": 7,
+      "xref": 60,
+      "smask": 0,
+      "width": 913,
+      "height": 3152,
+      "occurrences": 1,
+      "rects_on_first_page": [
+        [
+          22.08,
+          14.52,
+          241.44,
+          771.84
+        ]
+      ]
+    },
+    {
+      "file": "p007_xref79.jpeg",
+      "first_page": 7,
+      "xref": 79,
+      "smask": 0,
+      "width": 3899,
+      "height": 342,
+      "occurrences": 1,
+      "rects_on_first_page": [
+        [
+          72.48,
+          561.0,
+          540.96,
+          602.04
+        ]
+      ]
+    },
+    {
+      "file": "p007_xref80.jpeg",
+      "first_page": 7,
+      "xref": 80,
+      "smask": 0,
+      "width": 140,
+      "height": 146,
+      "occurrences": 1,
+      "rects_on_first_page": [
+        [
+          55.8,
+          654.6,
+          72.6,
+          672.12
+        ]
+      ]
+    },
+    {
+      "file": "p007_xref81.jpeg",
+      "first_page": 7,
+      "xref": 81,
+      "smask": 0,
+      "width": 3899,
+      "height": 146,
+      "occurrences": 1,
+      "rects_on_first_page": [
+        [
+          72.48,
+          654.6,
+          540.96,
+          672.12
+        ]
+      ]
+    },
+    {
+      "file": "p007_xref82.jpeg",
+      "first_page": 7,
+      "xref": 82,
+      "smask": 0,
+      "width": 140,
+      "height": 244,
+      "occurrences": 1,
+      "rects_on_first_page": [
+        [
+          55.8,
+          701.28,
+          72.6,
+          730.56
+        ]
+      ]
+    },
+    {
+      "file": "p007_xref83.jpeg",
+      "first_page": 7,
+      "xref": 83,
+      "smask": 0,
+      "width": 3899,
+      "height": 244,
+      "occurrences": 1,
+      "rects_on_first_page": [
+        [
+          72.48,
+          701.28,
+          540.96,
+          730.56
+        ]
+      ]
+    },
+    {
+      "file": "p007_xref104.jpeg",
+      "first_page": 7,
+      "xref": 104,
+      "smask": 0,
+      "width": 4955,
+      "height": 305,
+      "occurrences": 1,
+      "rects_on_first_page": [
+        [
+          0.24,
+          735.12,
+          595.68,
+          771.84
+        ]
+      ]
+    },
+    {
+      "file": "p007_xref61.jpeg",
+      "first_page": 7,
+      "xref": 61,
+      "smask": 0,
+      "width": 1825,
+      "height": 247,
+      "occurrences": 1,
+      "rects_on_first_page": [
+        [
+          355.32,
+          742.08,
+          574.56,
+          771.84
+        ]
+      ]
+    },
+    {
+      "file": "p007_xref62.jpeg",
+      "first_page": 7,
+      "xref": 62,
+      "smask": 0,
+      "width": 2478,
+      "height": 3212,
+      "occurrences": 1,
+      "rects_on_first_page": [
+        [
+          0.24,
+          0.0,
+          595.68,
+          771.6
+        ]
+      ]
+    },
+    {
+      "file": "p007_xref64.jpeg",
+      "first_page": 7,
+      "xref": 64,
+      "smask": 0,
+      "width": 140,
+      "height": 147,
+      "occurrences": 1,
+      "rects_on_first_page": [
+        [
+          55.8,
+          151.8,
+          72.6,
+          169.44
+        ]
+      ]
+    },
+    {
+      "file": "p007_xref65.jpeg",
+      "first_page": 7,
+      "xref": 65,
+      "smask": 0,
+      "width": 3899,
+      "height": 147,
+      "occurrences": 1,
+      "rects_on_first_page": [
+        [
+          72.48,
+          151.8,
+          540.96,
+          169.44
+        ]
+      ]
+    },
+    {
+      "file": "p007_xref66.jpeg",
+      "first_page": 7,
+      "xref": 66,
+      "smask": 0,
+      "width": 140,
+      "height": 147,
+      "occurrences": 1,
+      "rects_on_first_page": [
+        [
+          55.8,
+          198.72,
+          72.6,
+          216.36
+        ]
+      ]
+    },
+    {
+      "file": "p007_xref67.jpeg",
+      "first_page": 7,
+      "xref": 67,
+      "smask": 0,
+      "width": 3899,
+      "height": 147,
+      "occurrences": 1,
+      "rects_on_first_page": [
+        [
+          72.48,
+          198.72,
+          540.96,
+          216.36
+        ]
+      ]
+    },
+    {
+      "file": "p007_xref68.jpeg",
+      "first_page": 7,
+      "xref": 68,
+      "smask": 0,
+      "width": 140,
+      "height": 244,
+      "occurrences": 1,
+      "rects_on_first_page": [
+        [
+          55.8,
+          233.76,
+          72.6,
+          263.04
+        ]
+      ]
+    },
+    {
+      "file": "p008_xref138.jpeg",
+      "first_page": 8,
+      "xref": 138,
+      "smask": 0,
+      "width": 4956,
+      "height": 308,
+      "occurrences": 1,
+      "rects_on_first_page": [
+        [
+          0.12,
+          734.76,
+          595.68,
+          771.84
+        ]
+      ]
+    },
+    {
+      "file": "p008_xref108.jpeg",
+      "first_page": 8,
+      "xref": 108,
+      "smask": 0,
+      "width": 913,
+      "height": 3116,
+      "occurrences": 1,
+      "rects_on_first_page": [
+        [
+          22.08,
+          23.28,
+          241.44,
+          771.84
+        ]
+      ]
+    },
+    {
+      "file": "p008_xref109.jpeg",
+      "first_page": 8,
+      "xref": 109,
+      "smask": 0,
+      "width": 2478,
+      "height": 3212,
+      "occurrences": 1,
+      "rects_on_first_page": [
+        [
+          0.24,
+          0.0,
+          595.68,
+          771.6
+        ]
+      ]
+    },
+    {
+      "file": "p008_xref110.jpeg",
+      "first_page": 8,
+      "xref": 110,
+      "smask": 0,
+      "width": 603,
+      "height": 98,
+      "occurrences": 1,
+      "rects_on_first_page": [
+        [
+          52.8,
+          131.4,
+          125.16,
+          143.16
+        ]
+      ]
+    },
+    {
+      "file": "p008_xref111.jpeg",
+      "first_page": 8,
+      "xref": 111,
+      "smask": 0,
+      "width": 670,
+      "height": 98,
+      "occurrences": 1,
+      "rects_on_first_page": [
+        [
+          125.04,
+          131.4,
+          205.56,
+          143.16
+        ]
+      ]
+    },
+    {
+      "file": "p008_xref112.jpeg",
+      "first_page": 8,
+      "xref": 112,
+      "smask": 0,
+      "width": 670,
+      "height": 98,
+      "occurrences": 1,
+      "rects_on_first_page": [
+        [
+          205.44,
+          131.4,
+          285.96,
+          143.16
+        ]
+      ]
+    },
+    {
+      "file": "p008_xref113.jpeg",
+      "first_page": 8,
+      "xref": 113,
+      "smask": 0,
+      "width": 603,
+      "height": 98,
+      "occurrences": 1,
+      "rects_on_first_page": [
+        [
+          52.8,
+          154.8,
+          125.16,
+          166.56
+        ]
+      ]
+    },
+    {
+      "file": "p008_xref114.jpeg",
+      "first_page": 8,
+      "xref": 114,
+      "smask": 0,
+      "width": 670,
+      "height": 98,
+      "occurrences": 1,
+      "rects_on_first_page": [
+        [
+          125.04,
+          154.8,
+          205.56,
+          166.56
+        ]
+      ]
+    },
+    {
+      "file": "p008_xref115.jpeg",
+      "first_page": 8,
+      "xref": 115,
+      "smask": 0,
+      "width": 670,
+      "height": 98,
+      "occurrences": 1,
+      "rects_on_first_page": [
+        [
+          205.44,
+          154.8,
+          285.96,
+          166.56
+        ]
+      ]
+    }
+  ],
+  "overlay_renders": []
+}
