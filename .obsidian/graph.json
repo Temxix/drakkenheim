@@ -1,22 +1,58 @@
 {
-  "collapse-filter": true,
+  "collapse-filter": false,
   "search": "",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
   "collapse-color-groups": true,
-  "colorGroups": [],
+  "colorGroups": [
+    {
+      "query": "file:(Люди королевы)",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
+    },
+    {
+      "query": "file:(Серебряный орден)",
+      "color": {
+        "a": 1,
+        "rgb": 5402336
+      }
+    },
+    {
+      "query": "file:(Академия)",
+      "color": {
+        "a": 1,
+        "rgb": 11752160
+      }
+    },
+    {
+      "query": "file:Фонари",
+      "color": {
+        "a": 1,
+        "rgb": 7921746
+      }
+    },
+    {
+      "query": "file:(Последователи Падающего Огня)",
+      "color": {
+        "a": 1,
+        "rgb": 14724178
+      }
+    }
+  ],
   "collapse-display": true,
-  "showArrow": true,
-  "textFadeMultiplier": 3,
-  "nodeSizeMultiplier": 0.849639506172839,
-  "lineSizeMultiplier": 0.477965432098765,
+  "showArrow": false,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1,
   "collapse-forces": true,
-  "centerStrength": 0.260444444444444,
-  "repelStrength": 9.1279012345679,
+  "centerStrength": 0.518713248970312,
+  "repelStrength": 10,
   "linkStrength": 1,
-  "linkDistance": 355,
-  "scale": 0.6795477032032038,
+  "linkDistance": 250,
+  "scale": 0.3392897331178759,
   "close": true
 }
